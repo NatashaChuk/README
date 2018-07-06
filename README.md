@@ -1,0 +1,7 @@
+echo "Things I've Learned at Bloc:"
+echo "1. Javascript"
+echo "2. Git"
+echo "3. Slack"
+echo "4. Frameworks" 
+echo "5. Github"
+echo "6. Command Line"
